@@ -2,4 +2,4 @@
 Linux X11 Windows Style Slovak Keyboard Layout
 
 **copy this file**
-`cp /home/_$USER_/Downloads/sk /usr/share/X11/xkb/symbols/sk`
+`cp /home/$USER/Downloads/sk /usr/share/X11/xkb/symbols/sk`
